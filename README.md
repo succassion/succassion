@@ -1,7 +1,8 @@
-<!--  https://github.com/kyechan99/capsule-render -->
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Succassion&fontAlign=70&rotate=13&fontAlignY=25&desc=Introduction%20About%20Myself.&descAlign=70.&descAlignY=44)
-### 👋 Hi Welcome, My World 👋
-![Succassion's GitHub stats](https://github-readme-stats.vercel.app/api?username=succassion&show_icons=true&theme=radical)<br/>
+<!-- https://github.com/kyechan99/capsule-render -->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Succassion!&fontAlign=80&fontAlignY=40&color=gradient)
+#### 👋 Hi Welcome, My World 👋
+<!-- https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only -->
+![Succassion's GitHub stats](https://github-readme-stats.vercel.app/api?username=succassion&show_icons=true&theme=merko)<br/>
 
 # 🛠️ Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><br/>
