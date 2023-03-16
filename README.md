@@ -27,8 +27,10 @@
 
 # 💬 Ask me about ...
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sucassion@gmail.com)](sucassion@gmail.com)
+<!--
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8f4981b5c8b2497197a2f12fa1215aef)](https://www.notion.so/8f4981b5c8b2497197a2f12fa1215aef)<br/>
 <br/>
+-->
 <!--
 **succassion/succassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
