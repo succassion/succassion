@@ -1,7 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Succassion!&fontAlign=80&fontAlignY=40&color=gradient)
 #### 👋 Hi Welcome, My World 👋
-![Succassion's GitHub stats](https://github-readme-stats.vercel.app/api?username=succassion&show_icons=true&theme=transparent)<br/>
+[![Succassion's GitHub stats](https://github-readme-stats.vercel.app/api?username=succassion&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br/>
 <br/>
 
 # 🛠️ Stacks
