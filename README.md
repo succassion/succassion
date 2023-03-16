@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Ref Site
 https://simpleicons.org
+https://home.aveek.io/GitHub-Profile-Badges/
 -->
