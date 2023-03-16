@@ -5,14 +5,14 @@
 <br/>
 
 # 🛠️ Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Shell_Script-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/><br/>
 <br/>
 
 # ⚡ Platform Driver
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/BSP-9999FF?style=flat-square&logo=BSP&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Audio_Driver-4B5E40?style=flat-square&logo=Audiomack&logoColor=white"/> <img src="https://img.shields.io/badge/Audio_HAL-FF4713?style=flat-square&logo=Audiomack&logoColor=white"/> <img src="https://img.shields.io/badge/Audio_HIDL-F07355?style=flat-square&logo=Audiomack&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Motor_Driver-00945E?style=flat-square&logo=Motor_Driver&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Haptic_Driver-35BDB2?style=flat-square&logo=Haptic_Driver&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Motor_Driver-00945E?style=flat-square&logo=MEGA&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Haptic_Driver-35BDB2?style=flat-square&logo=Hexo&logoColor=white"/><br/>
 <br/>
 
 # 🌱 Cloud & Network
