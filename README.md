@@ -7,11 +7,14 @@
 <br/>
 
 # ⚡ Platform Driver
-
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/BSP-9999FF?style=flat-square&logo=BSP&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Audio_Driver-4B5E40?style=flat-square&logo=Audiomack&logoColor=white"/> <img src="https://img.shields.io/badge/Audio_HAL-FF4713?style=flat-square&logo=Audiomack&logoColor=white"/> <img src="https://img.shields.io/badge/Audio_HIDL-F07355?style=flat-square&logo=Audiomack&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Motor_Driver-00945E?style=flat-square&logo=Motor_Driver&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Haptic_Driver-35BDB2?style=flat-square&logo=Haptic_Driver&logoColor=white"/><br/>
 
 # 🌱 Cloud & Network
-<img src="https://img.shields.io/badge/Network Infra-161D4E?style=flat-square&logo=Network Infra&logoColor=white"/> <img src="https://img.shields.io/badge/L2 Switch Configuration-404040?style=flat-square&logo=L2 Switch Configuration&logoColor=white"/> <img src="https://img.shields.io/badge/L3 Switch Configuration-575757?style=flat-square&logo=L3 Switch Configuration&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Network_Infra-161D4E?style=flat-square&logo=Autoprefixer&logoColor=white"/> <img src="https://img.shields.io/badge/L2_Switch-404040?style=flat-square&logo=L2_Switch&logoColor=white"/> <img src="https://img.shields.io/badge/L3_Switch-575757?style=flat-square&logo=L3_Switch&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/><br/>
 <br/>
 
